@@ -1,5 +1,4 @@
 (* Add the next state to the list of states already visited *)
-
 let rec addPath = function (estIni,cad,[]) -> [(estIni,cad)]
 	| (estIni,cad,(est2,cad2)::listRecorr) -> 
 			if (estIni=est2) then (est2,cad)::listRecorr

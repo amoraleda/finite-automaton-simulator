@@ -1,7 +1,7 @@
 finite-automaton-simulator
 ==========================
 
-This program simulates three kind Finite Automaton: deterministic, nondeterministic and nondeterministic with epsilon transitions.
+This program simulates three kind of Finite Automata: deterministic, nondeterministic and nondeterministic with epsilon transitions.
 
 Written in Caml Light as a practice to Automata Theory and Formal Languages class in 2004.
 
